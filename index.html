@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Trabalho Prático 1</title>
+    <!--<link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootswatch@4.6.0/dist/lux/bootstrap.min.css"
+    />-->
+    <link rel="stylesheet" href="/css/main.css" />
+  </head>
+  <body>
+    <main>
+      <section>
+        <h1>Writting Numbers</h1>
+        <div class="inputs">
+          <label for="totalRange">Choose a number between 0 and 999</label>
+          <input
+            type="range"
+            class="custom-range"
+            min="0"
+            max="999"
+            id="totalRange"
+          />
+          <label for="numeric">Actual Number:</label>
+          <input type="text" id="numeric" disabled />
+          <label for="written">Written Number:</label>
+          <input type="text" id="written" disabled />
+        </div>
+      </section>
+    </main>
+    <footer>
+      <div class="footer">
+        <h2>@mpfdev</h2>
+      </div>
+    </footer>
+    <script src="/js/index.js"></script>
+  </body>
+</html>
