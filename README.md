@@ -4,7 +4,7 @@ Simple small app project to study DOM manipulation, loops, logical operators, th
 
 **Link to project:** https://writtingnumbers.netlify.app
 
-![alt tag](http://placecorgi.com/1200/650)
+![Project Video](https://i.imgur.com/BMD2GZP.gif)
 
 ## How It's Made:
 
