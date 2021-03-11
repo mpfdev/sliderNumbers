@@ -14,7 +14,7 @@ HTML and CSS, for structure and input ID's only. The work is all on JavaScript. 
 
 ## Optimizations
 
-Refactor and do using OOP.
+If I had more time, I would do ti using OOP and make less repetitive and more readable.
 
 ## Lessons Learned:
 
